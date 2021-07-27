@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.cloud.jdbc.config.custom.CustomJdbcEnvironmentRepositoryFactory,\
+com.cloud.jdbc.config.custom.CustomJdbcEnvironmentRepository,\
+com.cloud.jdbc.config.custom.CustomEnvironmentRepositoryConfiguration
